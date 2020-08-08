@@ -1,3 +1,4 @@
+app setup
 # pip3 install virtualenv
 # virtualenv env
 # source env/bin/activate
@@ -11,3 +12,5 @@ access database
 deployment on heroku
 # pip3 install gunicorn
 # pip3 freeze > requirements.txt
+# touch Procfile
+# git push heroku master
